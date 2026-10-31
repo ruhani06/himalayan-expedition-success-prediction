@@ -1,8 +1,6 @@
 
 # Himalayan Expedition Success Prediction
 
-INT234 Predictive Analytics project by Ruhani (Reg. No. 12405148), Lovely Professional University.
-
 ## About
 Predicts whether a Himalayan expedition reaches the summit (classification) and how long it lasts (regression), using 9,747 expeditions from 1905 to 2019 (duplicates removed).
 
